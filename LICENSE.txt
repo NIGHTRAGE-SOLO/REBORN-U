@@ -1,16 +1,16 @@
 TEAM(1-0-1-3-1-u-0-_-a-1-3-1)SHADOW
 
-TEAM(1-0-1-4-7-u-0-_-a-1-4-7)SHADOW 6
-TEAM(1-0-3-7-0-u-0-_-a-3-7-0)SHADOW 4
-TEAM(1-0-1-2-4-u-0-_-a-1-2-4)SHADOW test(1½)
-TEAM(1-0-2-2-7-u-0-_-a-2-2-7)SHADOW test(2)
-TEAM(1-0-2-0-6-u-0-_-a-2-0-6)SHADOW 3
-TEAM(1-0-1-7-9-u-0-_-a-1-7-9)SHADOW 6
-TEAM(1-0-2-1-0-u-0-_-a-2-1-0)SHADOW test(3)
-TEAM(1-0-2-2-2-u-0-_-a-2-2-2)SHADOW 1
-TEAM(1-0-2-1-4-u-0-_-a-2-1-4)SHADOW test(1)
-TEAM(1-0-2-3-2-u-0-_-a-2-3-2)SHADOW (feb 15) 7
-TEAM(1-0-2-5-6-u-0-_-a-2-5-6)SHADOW (15 feb) 7
+TEAM(1-0-1-4-7-u-0-_-a-1-4-7)SHADOW 4
+TEAM(1-0-3-7-0-u-0-_-a-3-7-0)SHADOW 2
+
+
+TEAM(1-0-2-0-6-u-0-_-a-2-0-6)SHADOW 1
+TEAM(1-0-1-7-9-u-0-_-a-1-7-9)SHADOW 4
+
+
+
+TEAM(1-0-2-3-2-u-0-_-a-2-3-2)SHADOW (feb 15) 5
+TEAM(1-0-2-5-6-u-0-_-a-2-5-6)SHADOW (15 feb) 5
 
 
 
