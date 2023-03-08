@@ -12,8 +12,8 @@ TEAM(1-0-1-2-4-u-0-_-a-1-2-4)SHADOW Isabella test
 
 TEAM(1-0-2-5-6-u-0-_-a-2-5-6)SHADOW (1 mar) 3
 TEAM(1-0-2-2-2-u-0-_-a-2-2-2)SHADOW (20 feb) 3
-TEAM(1-0-2-8-8-u-0-_-a-2-8-8) (21 feb) 3 -2 Jennifer
-TEAM(1-0-2-5-1-u-0-_-a-2-5-1) (21 feb) 3 -2 Jennifer
+TEAM(1-0-2-8-8-u-0-_-a-2-8-8) (21 feb) 3 -2k Jennifer
+TEAM(1-0-2-5-1-u-0-_-a-2-5-1) (21 feb) 3 -2k Jennifer
 
 TEAM(1-0-1-8-6-u-0-_-a-1-8-6)SHADOW (23 feb) 4
 TEAM(1-0-2-6-2-u-0-_-a-2-6-2)SHADOW (24 feb) 5
