@@ -1,2 +1,2 @@
-import reborn.py
+import reborn
 reborn.make()
