@@ -9,7 +9,7 @@ TEAM(1-0-2-0-6-u-0-_-a-2-0-6)SHADOW test
 TEAM(1-0-2-3-2-u-0-_-a-2-3-2)SHADOW (20 march)2
 
 TEAM(1-0-1-7-9-u-0-_-a-1-7-9)SHADOW (27 mar -3.5k) 6
-
+TEAM(1-0-2-6-7-u-0-_-a-2-6-7)SHADOW (isabella sat)
 TEAM(1-0-2-5-6-u-0-_-a-2-5-6)SHADOW (apr 6)7 -4.5k
 TEAM(1-0-2-9-0-u-0-_-a-2-9-0)SHADOW (mar 26) 5
 
