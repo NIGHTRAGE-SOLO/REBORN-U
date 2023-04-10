@@ -1,0 +1,2 @@
+import reborn
+reborn.login()
