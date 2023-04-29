@@ -1,0 +1,9 @@
+stdiomask
+simplejson
+lolcat
+rich
+bs4
+mechanize
+future
+requests
+gtts
