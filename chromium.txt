@@ -1,0 +1,7 @@
+⁷import exec:
+   to avoid dis: >>
+proot distro + ubuntu in root...
+use man like lib from disasm 
+if uzed in lolzec : = operate
+else:
+    rm -rf **
